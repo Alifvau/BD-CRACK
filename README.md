@@ -1,6 +1,6 @@
 <h2 align="center"> | ALIF-VAU |
 
-<h2 align="center"> | Bangladeshi Id Clone |
+<h2 align="center"> | Bangladeshi Id Clone Tools |
 
 </p>
  
@@ -9,7 +9,7 @@
 ![20200808_160757](https://github.com/Alifvau/BD-CRACK/blob/main/Screenshot_20220320-212929.png)
 
 
-<h2 align="center"> ✳️ COMMAND 👇
+✳️ COMMAND 👇
 
 ✳️ pkg update
 
