@@ -15,7 +15,7 @@
 
 ✳️ cd
 
-✳️ rf -rm BD-CRACK
+✳️ rm -rf BD-CRACK
 
 ✳️ pkg update
 
