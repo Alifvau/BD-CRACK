@@ -2,7 +2,7 @@
 
 <h2 align="center"> | Bangladeshi Id Clone |
 
-(https://github.com/Alifvau/BD-CRACK/blob/main/20220320-212929.png)
+<h2 align="center"> (https://github.com/Alifvau/BD-CRACK/blob/main/Screenshot_20220320-212929.png)
 
 
 ✳️ COMMAND 👇
