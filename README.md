@@ -1,5 +1,6 @@
 ✳️ Bangladeshi Facebook Id Clone Tools 🙋‍♂️
 
+
 ✳️ pkg update
 
 ✳️ pkg upgrade
@@ -19,6 +20,7 @@
 ✳️ cd BD-CRACK
 
 ✳️ python2 BD-CRACK.py
+
 
 
 
