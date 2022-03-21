@@ -9,6 +9,8 @@
 ![20200808_160757](https://github.com/Alifvau/BD-CRACK/blob/main/Screenshot_20220320-212929.png)
 
 
+
+
 ✳️ COMMAND 👇
 
 ✳️ pkg update
