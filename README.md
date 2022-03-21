@@ -1,7 +1,11 @@
-✳️ Bangladeshi Facebook Id Clone Tools 🙋‍♂️
+<h2 align="center"> | ALIF-VAU |
+
+<h2 align="center"> | Bangladeshi Id Clone |
+
+(https://github.com/Alifvau/BD-CRACK/blob/main/20220320-212929.png)
 
 
-
+✳️ COMMAND 👇
 
 ✳️ pkg update
 
