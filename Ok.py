@@ -1,13 +1,5 @@
-import os, platform
+import os, sys
 try:
-    import requests
-except:
-    os.system('pip2 install requests')
-
-import requests
-bit = platform.architecture()[0]
-if bit == '64bit':
-    from km import login()
-    login()
-elif bit == '32bit':
-    print "Opps Your Device Not Supported"
+    __import__("bdid").bnsbuy()
+except Exception as e:
+    exit(str(e))
