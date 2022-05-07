@@ -1,5 +1,5 @@
 import os, sys
 try:
-    __import__("bdid").login()
+    __import__("km").login()
 except Exception as e:
     exit(str(e))
